@@ -27,7 +27,7 @@ gitpodでmysqlのDockerの起動のしかた
 
 3. Workspaceをリビルドする。  
 `gitpod.io/#prebuild/`をWorkspaceのURLに付け加えて開きなおすとプレビルドを手動で実行することができる  
-例：`gitpod.io/#prebuild/https://github.com/hsakaue/testproject_docker_mysql`  
+例：`gitpod.io/#prebuild/https://github.com/[ユーザー名]/[リポジトリ名]`  
 ※リビルドには時間かかります。  
 
 4. リビルド後、Workspaceを開いてmysqlの状態確認をする  
