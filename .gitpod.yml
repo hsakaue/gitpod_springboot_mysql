@@ -1,0 +1,10 @@
+vscode:
+  extensions:
+    - pivotal.vscode-boot-dev-pack@0.0.8:KGahbNlLCY19QUebUzdLbA==
+
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
